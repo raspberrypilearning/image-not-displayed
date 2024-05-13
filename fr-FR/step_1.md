@@ -1,6 +1,6 @@
-Check carefully that the name of your image in the `src` property matches the file name. Make sure the use of capital letters is the same. For example, 'myimage.png' is **not** the same as 'myimage.PNG'.
+Vérifie bien que le nom de ton image dans la propriété `src` correspond au nom du fichier. Assure-toi que l'utilisation des majuscules est la même. Par exemple, 'myimage.png n'est **pas** la même chose que 'myimage.PNG'.
 
-This HTML does not display an image saved as 'happy.PNG':
+Ce code HTML ne permet pas d'afficher une image enregistrée sous le nom de 'happy.PNG' :
 
 ## --- code ---
 
