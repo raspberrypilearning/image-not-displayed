@@ -1,6 +1,6 @@
-Check carefully that the name of your image in the `src` property matches the file name. Make sure the use of capital letters is the same. For example, 'myimage.png' is **not** the same as 'myimage.PNG'.
+仔细检查 `src` 属性中的图片名称是否与文件名匹配。 确保使用相同的大写字母。 例如，“myimage.png”与“myimage.PNG”**不**相同。
 
-This HTML does not display an image saved as 'happy.PNG':
+这个 HTML 不显示保存为“happy.PNG”的图片：
 
 ## --- code ---
 
